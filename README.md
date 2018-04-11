@@ -24,6 +24,6 @@ repositories {
     }
 }
 dependencies {
-    compile group: 'org.jacis', name: 'jacis', version: '1.0'
+    compile group: 'org.jacis', name: 'jacis', version: '1.28'
 }
 </pre>
